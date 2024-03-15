@@ -1,0 +1,1 @@
+Exercicios para resolver do github -> https://github.com/EnricoSantarelli/typescript-trainee
