@@ -5,3 +5,4 @@ npx create-react-app my-app
 cd my-app
 npm start
 
+instalando vite: npm install vite --save-dev (com projeto ja tendo)
