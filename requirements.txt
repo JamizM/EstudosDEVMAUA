@@ -6,3 +6,8 @@ cd my-app
 npm start
 
 instalando vite: npm install vite --save-dev (com projeto ja tendo)
+abra o projeto dentro da pasta C:\GitHub\EstudosDEVMAUA\AulasReact\Teste-Trainee\public
+
+instalando o prettier: npm install -D prettier
+
+instalar o eslint e o prettier para se comunicar: npm install -D eslint-plugin-prettier eslint-config-prettier prettier (pasta Teste-Trainee)
